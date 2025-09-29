@@ -1,9 +1,3 @@
----
-noteId: "0e248c509d0c11f0b9ae1bd361da28fa"
-tags: []
-
----
-
 # Douyin 下载器（命令行）
 
 ## 项目用途
