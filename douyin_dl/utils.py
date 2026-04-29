@@ -1,6 +1,6 @@
 import re
 
-MEDIA_HOST_PATTERN = re.compile(r"https?://v\d+-web\.douyinvod\.com/[^\s'\"]+")
+MEDIA_HOST_PATTERN = re.compile(r"https?://v\d+-web[a-z]?\.douyinvod\.com/[^\s'\"]+")
 
 DEFAULT_HEADERS = {
     "Referer": "https://www.douyin.com/",
